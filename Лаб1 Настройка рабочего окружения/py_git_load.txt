@@ -1,0 +1,26 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  shutdown -r now
+    4  sudo rm /etc/apt/preferences.d/nosnap.pref
+    5  sudo apt update
+    6  sudo apt install snapd snapd-xdg-open
+    7  sudo snap install pycharm-community --classic
+    8  sudo apt-get install python3-setuptools
+    9  sudo apt-get install python3-pip
+   10  sudo apt-get install python3-distutils
+   11  sudo apt-get install python3-tk
+   12  shutdown -r now
+   13  sudo apt-get install python3-venv
+   14  mkdir myenvir
+   15  cd myenvir
+   16  python3 -m venv myenv1
+   17  python3 -m venv myenv2
+   18  source myenv1/bin/activate
+   19  deactivate
+   20  source myenv2/bin/activate
+   21  deactivate
+   22  cd
+   23  pip3 install python
+   24  pip3 install ipython
+   25  pip3 install jupyter notebook
+   26  shutdown -r now
