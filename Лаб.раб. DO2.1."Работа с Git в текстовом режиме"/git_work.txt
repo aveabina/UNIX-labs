@@ -1,0 +1,72 @@
+  359  mkdir gitwork
+  360  cd gitwork
+  361  git init
+  362  git status
+  363  touch listsort.py
+  364  git status
+  365  git add listsort.py
+  366  git status
+  367  git commit -m "First commit!"
+  368  git status
+  369  git add listsort.py
+  370  nano listsort.py
+  371  git commit -m "Add code for list sort"
+  372  git log
+  373  git add listsort.py
+  374  git commit -m "Add code for list sort"
+  375  nano listsort.py
+  376  git add listsort.py
+  377  git commit -m "Change message for user"
+  378  git log
+  379  touch sort2.py
+  380  git status
+  381  touch sort3.py
+  382  git status
+  383  git add .
+  384  nano sort2.py
+  385  nano sort3.py
+  386  git commit -am "Added 2 list sort methods"
+  387  git status
+  388  git log
+  389  pycharm ~/gitwork
+  390  nano .bashrc
+  391  pycharm ~/gitwork
+  392  pycharm.sh ~/gitwork
+  393  ls
+  394  virtualenv venv -p python3.8
+  395  sudo apt install python3-virtualenv
+  396  virtualenv venv -p python3.8
+  397  source venv/bin/activate
+  398  touch .gitignore
+  399  ls
+  400  cd ~/gitwork/
+  401  exit
+  402  cd ~/gitwork/
+  403  git status
+  404  ls
+  405  git add .
+  406  git branch random_sorts
+  407  git checkout random_sorts
+  408  git branch
+  409  git add listsort.py
+  410  nano listsort.py
+  411  git commit -m "Bubble sort with random"
+  412  git add sort2.py
+  413  nano sort2.py
+  414  git commit -m "Choice sort with random"
+  415  git add sort2.py
+  416  git commit -m "Choice sort with random"
+  417  git checkout master
+  418  git add sort3.py
+  419  git commit -m "Quick sort without random"
+  420  git add sort3.py
+  421  nano sort3.py
+  422  git commit -m "Quick sort without random"
+  423  git add sort3.py
+  424  git status
+  425  ls
+  426  git branch
+  427  git add sort3.py
+  428  git status
+  429  git merge random_sorts
+  430  git log
