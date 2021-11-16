@@ -6,6 +6,8 @@
 
 ![unix3 2](https://user-images.githubusercontent.com/91433112/141878963-b99b3ef4-1a49-4df6-b25b-30ad8151a916.png)
 
+![unix3 3](https://user-images.githubusercontent.com/91433112/141880035-ca22ac09-4d79-4420-8d1d-85734c1bb455.png)
+
 Создан файл с кодом, сделано несколько изменений, сделаны коммиты
 
 ![unix3 5](https://user-images.githubusercontent.com/91433112/141878979-68b7a297-6f49-4686-850c-53f5d1931af0.png)
