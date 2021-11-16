@@ -16,4 +16,12 @@
 
 ![unix3 7](https://user-images.githubusercontent.com/91433112/141879002-f2bd4f66-b8cf-4bd2-8b45-d607107268b0.png)
 
+Просмотр истории коммитов:
+
+![unix3 9](https://user-images.githubusercontent.com/91433112/141881132-69759c8a-d6d3-4225-9b6a-608a251ccafb.png)
+
+Откат до предыдущей версии:
+
+![unix3 10](https://user-images.githubusercontent.com/91433112/141881134-18d6fa83-2469-4d71-aad2-550b7d45a1c3.png)
+
 
