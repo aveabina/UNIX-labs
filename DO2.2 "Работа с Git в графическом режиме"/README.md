@@ -1,3 +1,5 @@
+ +ДОП.ЗАДАНИЯ в doc-файле
+
 Был установлен графический клиент Git-Cola, создан каталог с будущим кодом
 
 ![unix3 1](https://user-images.githubusercontent.com/91433112/141878956-e66660dd-83a5-4dfb-9deb-62b5c751f97a.png)
@@ -25,4 +27,4 @@
 ![unix3 10](https://user-images.githubusercontent.com/91433112/141881134-18d6fa83-2469-4d71-aad2-550b7d45a1c3.png)
 
 
-     +ДОП.ЗАДАНИЯ в doc-файле
+    
