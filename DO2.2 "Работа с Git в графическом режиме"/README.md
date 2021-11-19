@@ -25,3 +25,4 @@
 ![unix3 10](https://user-images.githubusercontent.com/91433112/141881134-18d6fa83-2469-4d71-aad2-550b7d45a1c3.png)
 
 
+     +ДОП.ЗАДАНИЯ в doc-файле
